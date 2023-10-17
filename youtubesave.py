@@ -29,3 +29,4 @@ if __name__ == "__main__":
 
     # Запускаем функцию для скачивания видео
     download_video(video_url, output_directory)
+    # Nothing to save
